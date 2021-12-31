@@ -1,235 +1,80 @@
-<svg fill="none" viewBox="0 0 1000 400" width="1000" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-                .container {
-                font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-                display: flex;
-                flex-direction: column;
-                align-items: center;
-                justify-content: center;
-                margin: 0;
-                width: 100%;
-                height: 400px;
-                background: #333;
-                background-size: 600% 400%;
-                border-radius: 10px;
-                text-align: center;
-                }
+### Hi there 👋<h2> I'm Milad</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
 
 
-                h1 {
-                text-align: center;
-                color: #fff;
-                font-size: 5em;
-                letter-spacing: 8px;
-                font-family: "Lucida Console", Monaco, monospace;	
-                font-weight: 400;
-                /*Create overlap*/
-                
-                margin: 0;
-                line-height: 0;
-                /*Animation*/
-                
-                animation: glitch1 2.5s infinite;
-                }
 
-                h1:nth-child(2) {
-                color: #67f3da;
-                animation: glitch2 2.5s infinite;
-                }
+<h3>🛠 Student </h3>
 
-                h1:nth-child(3) {
-                color: #f16f6f;
-                animation: glitch3 2.5s infinite;
-                }
-                /*Keyframes*/
 
-                @keyframes glitch1 {
-                0% {
-                    transform: none;
-                    opacity: 1;
-                }
-                7% {
-                    transform: skew(-0.5deg, -0.9deg);
-                    opacity: 0.75;
-                }
-                10% {
-                    transform: none;
-                    opacity: 1;
-                }
-                27% {
-                    transform: none;
-                    opacity: 1;
-                }
-                30% {
-                    transform: skew(0.8deg, -0.1deg);
-                    opacity: 0.75;
-                }
-                35% {
-                    transform: none;
-                    opacity: 1;
-                }
-                52% {
-                    transform: none;
-                    opacity: 1;
-                }
-                55% {
-                    transform: skew(-1deg, 0.2deg);
-                    opacity: 0.75;
-                }
-                50% {
-                    transform: none;
-                    opacity: 1;
-                }
-                72% {
-                    transform: none;
-                    opacity: 1;
-                }
-                75% {
-                    transform: skew(0.4deg, 1deg);
-                    opacity: 0.75;
-                }
-                80% {
-                    transform: none;
-                    opacity: 1;
-                }
-                100% {
-                    transform: none;
-                    opacity: 1;
-                }
-                }
 
-                @keyframes glitch2 {
-                0% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                7% {
-                    transform: translate(-2px, -3px);
-                    opacity: 0.5;
-                }
-                10% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                27% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                30% {
-                    transform: translate(-5px, -2px);
-                    opacity: 0.5;
-                }
-                35% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                52% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                55% {
-                    transform: translate(-5px, -1px);
-                    opacity: 0.5;
-                }
-                50% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                72% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                75% {
-                    transform: translate(-2px, -6px);
-                    opacity: 0.5;
-                }
-                80% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                100% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                }
+- 💻 &nbsp; java | PHP | C++ | dart-flutter | MySQL
 
-                @keyframes glitch3 {
-                0% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                7% {
-                    transform: translate(2px, 3px);
-                    opacity: 0.5;
-                }
-                10% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                27% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                30% {
-                    transform: translate(5px, 2px);
-                    opacity: 0.5;
-                }
-                35% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                52% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                55% {
-                    transform: translate(5px, 1px);
-                    opacity: 0.5;
-                }
-                50% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                72% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                75% {
-                    transform: translate(2px, 6px);
-                    opacity: 0.5;
-                }
-                80% {
-                    transform: none;
-                    opacity: 0.25;
-                }
-                100% {
-                    transform: none;
-                    opacity: 0.29;
-                }
-                }
-			</style>
-			<div class="container">
-                <h1>Hey, I'm Milad!</h1>
-                <h1>Hey, I'm Milad!</h1>
-                <h1>Hey, I'm Milad!</h1>
-            </div>
-        </div>
-	</foreignObject>
-</svg>
+- 🌐 &nbsp; HTML | CSS | PHP 
 
 <!--
-**miladmirkhan/miladmirkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 -->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; JavaScript | Firebase | flask
+
+<hr>
+
+
+
+<br/><br/>
+
+
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+
+<a href="https://www.linkedin.com/in/milad-mirkhan-63537521a/"><img alt="LinkedIn" src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent--background-PNG.png"></a>
+
+<a href="https://www.instagram.com/miladsherwanii/"><img alt="https://esquilo.io/png/thumb/upDYzVHnrB9pUiE-Instagram-Logo-PNG-Background-Image.png"></a>
+
+<a href="msherwani92@gmail.com"><img alt="Email" src="https://www.pngfind.com/pngs/m/139-1396317_png-file-email-icon-no-background-transparent-png.png"></a>
+
+</p>
+
+
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
