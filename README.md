@@ -38,9 +38,6 @@
 
 <br/>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 <br><br>
 
@@ -73,7 +70,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
+[Github](https://github.com/miladmirkhan) | [Linkedin](https://www.linkedin.com/in/milad-mirkhan-63537521a/) | [Stack Overflow](https://stackoverflow.com/users/16825719/milad-mirkhan)
 
 
 
