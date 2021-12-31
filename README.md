@@ -32,9 +32,6 @@
 
 <br/><br/>
 
-
-<br>
-
 [First-Site](https://apparel-site.herokuapp.com/)
 
 <br>
