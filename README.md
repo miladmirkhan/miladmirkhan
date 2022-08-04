@@ -24,7 +24,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; JavaScript | Firebase | flask
+- 🔧 &nbsp; JavaScript | Firebase
 
 <hr>
 
@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-[First-Site](https://apparel-site.herokuapp.com/)
+
 
 <br>
 
